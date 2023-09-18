@@ -4,9 +4,6 @@
 
 ![image](https://github.com/Josue185/analise_dados_cartoes/assets/92592495/29c3a25d-3dc0-4b8c-8a8d-5854f0e4b869)
 
-![image](https://github.com/Josue185/analise_dados_cartoes/assets/92592495/d3f5ef88-5718-4ad0-94a2-9f1f751dcfce)
-
-
 
 Claro, vou melhorar o texto da análise de dados que você forneceu:
 
